@@ -1,0 +1,1 @@
+- git: {local-name: auxos_rqt, uri: 'https://github.com/GAVLab/auxos_rqt.git', version: master}
