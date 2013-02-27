@@ -41,7 +41,7 @@
 - git:
     local-name: roscpp_core
     uri: git://github.com/wg-debs/roscpp_core-release.git
-    version: upstream/0.3.4
+    version: debian/ros-fuerte-roscpp-core_0.2.5_lucid
 - git:
     local-name: rospack
     uri: git://github.com/wg-debs/rospack-release.git
