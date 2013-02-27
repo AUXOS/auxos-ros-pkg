@@ -8,3 +8,5 @@
 - git: {local-name: ackermann_msgs, uri: 'git@github.com:davidhodo/ackermann_msgs.git', version: master}
 # rqt path following client
 - git: {local-name: auxos_rqt, uri: 'git@github.com:GAVLab/auxos_rqt.git', version: master}
+# auxos client - ROS code for UI
+- git: {local-name: auxos_client, uri: 'git@github.com:GAVLab/auxos_client.git', version: master}
