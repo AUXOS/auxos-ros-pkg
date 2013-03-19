@@ -1,0 +1,8 @@
+# setup auxos files needed for message generation
+- git: {local-name: auxos_messages, uri: 'git@github.com:GAVLab/auxos_messages.git', version: master}
+# setup common auxos files
+- git: {local-name: auxos_common, uri: 'git@github.com:GAVLab/auxos_common.git', version: master}
+# catkin version of ackermann steering messages
+- git: {local-name: ackermann_msgs, uri: 'git@github.com:davidhodo/ackermann_msgs.git', version: master}
+# auxos client - ROS code for UI
+- git: {local-name: auxos_client, uri: 'git@github.com:GAVLab/auxos_client.git', version: master}
