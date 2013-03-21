@@ -1,12 +1,12 @@
 # setup auxos files needed for message generation
-- git: {local-name: auxos_messages, uri: 'git@github.com:GAVLab/auxos_messages.git', version: master}
+- git: {local-name: auxos_messages, uri: 'git@github.com:AUXOS/auxos_messages.git', version: master}
 # setup common auxos files
-- git: {local-name: auxos_common, uri: 'git@github.com:GAVLab/auxos_common.git', version: master}
+- git: {local-name: auxos_common, uri: 'git@github.com:AUXOS/auxos_common.git', version: master}
 # setup segwayrmp400 specific files
-- git: {local-name: auxos_segwayrmp400, uri: 'git@github.com:GAVLab/auxos_segwayrmp400.git', version: master}
+- git: {local-name: auxos_segwayrmp400, uri: 'git@github.com:AUXOS/auxos_segwayrmp400.git', version: master}
 # catkin version of ackermann steering messages
-- git: {local-name: ackermann_msgs, uri: 'git@github.com:davidhodo/ackermann_msgs.git', version: master}
+- git: {local-name: ackermann_msgs, uri: 'git@github.com:AUXOS/ackermann_msgs.git', version: master}
 # rqt path following client
-- git: {local-name: auxos_rqt, uri: 'git@github.com:GAVLab/auxos_rqt.git', version: master}
+- git: {local-name: auxos_rqt, uri: 'git@github.com:AUXOS/auxos_rqt.git', version: master}
 # auxos client - ROS code for UI
-- git: {local-name: auxos_client, uri: 'git@github.com:GAVLab/auxos_client.git', version: master}
+- git: {local-name: auxos_client, uri: 'git@github.com:AUXOS/auxos_client.git', version: master}
