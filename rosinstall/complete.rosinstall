@@ -10,3 +10,5 @@
 - git: {local-name: auxos_rqt, uri: 'git@github.com:GAVLab/auxos_rqt.git', version: master}
 # auxos client - ROS code for UI
 - git: {local-name: auxos_client, uri: 'git@github.com:GAVLab/auxos_client.git', version: master}
+# serial interface
+- git: {local-name: serial, uri: 'git@github.com:wjwwood/serial.git', version: master}
