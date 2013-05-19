@@ -36,7 +36,7 @@ Needed ROS stacks:
 * actionlib
 *  
 
-### Instructions
+### Installing
 
 Create a folder to use for the ROS catkin workspace:
 
@@ -47,9 +47,22 @@ Depending on the target vehicle (simulation, Segway, Ranger EV, etc.) the worksp
 
 	wstool init -j8 src https://raw.github.com/GAVLab/auxos-ros-pkg/master/rosinstall/complete.rosinstall
 
+Additional packages can be added to the workspace using 'wstool set':
+
+	wstool set serial --git git@github.com:wjwwood/serial.git
+	wstool update
+
 Build the workspace (from auxos_ws):
 
 	catkin_make
+
+
+### Adding Packages
+
+Additional packages not listed in the rosinstall files can be added to the workspace using wstool:
+
+	wstool set auxos_messages --git 
+	wstool update git@github.com:GAVLab/auxos_messages.git
 
 
 ## Simulating the Segway RMP400
