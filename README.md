@@ -45,7 +45,7 @@ Create a folder to use for the ROS catkin workspace:
 
 Depending on the target vehicle (simulation, Segway, Ranger EV, etc.) the workspace will be created with different rosinstall files.  The repositories needed by all systems can be installed using the command
 
-	wstool init -j8 src https://raw.github.com/GAVLab/auxos-ros-pkg/master/rosinstall/complete.rosinstall
+	wstool init -j8 src https://raw.github.com/AUXOS/auxos-ros-pkg/master/rosinstall/complete.rosinstall
 
 Additional packages can be added to the workspace using 'wstool set':
 
