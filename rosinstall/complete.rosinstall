@@ -12,3 +12,10 @@
 - git: {local-name: auxos_client, uri: 'git@github.com:AUXOS/auxos_client.git', version: master}
 # serial interface
 - git: {local-name: serial, uri: 'git@github.com:wjwwood/serial.git', version: master}
+# novatel interface
+- git: {local-name: novatel, uri: 'git@github.com:GAVLab/novatel.git', version: master}
+# em61 interface
+- git: {local-name: em61mk2, uri: 'git@github.com:AUXOS/em61mk2.git', version: master}
+# segwayrmp440 interface
+- git: {local-name: libsegwayrmp440, uri: 'git@github.com:AUXOS/libsegwayrmp440.git', version: master}
+
