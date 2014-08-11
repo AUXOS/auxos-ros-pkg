@@ -6,3 +6,4 @@
 - git: {local-name: ackermann_msgs, uri: 'https://github.com/AUXOS/ackermann_msgs.git', version: master}
 # auxos client - ROS code for UI
 - git: {local-name: auxos_client, uri: 'https://github.com/AUXOS/auxos_client.git', version: master}
+- git: {local-name: bond_core, uri: 'https://github.com/ros/bond_core.git'}
