@@ -1,2 +1,0 @@
-# setup auxos files needed for message generation
-- git: {local-name: auxos_messages, uri: 'https://github.com/AUXOS/auxos_messages.git', version: master}

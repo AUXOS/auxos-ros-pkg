@@ -1,3 +1,0 @@
-# setup auxos files needed for simulation
-- git: {local-name: auxos_common, uri: 'https://github.com/AUXOS/auxos_common.git', version: master}
-- git: {local-name: auxos_segwayrmp400, uri: 'https://github.com/AUXOS/auxos_segwayrmp400.git', version: master}
