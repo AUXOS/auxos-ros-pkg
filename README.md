@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-The AUXOS ROS packages make use of the new Catkin build system and are designed for ROS Groovy.  ROS should be installed following the instructions at: http://www.ros.org/wiki/groovy/Installation/Ubuntu.  Additional information on Catkin can be found at: http://www.ros.org/wiki/catkin
+The AUXOS ROS packages make use of the new Catkin build system and are designed for ROS Indigo.  ROS should be installed following the instructions at: http://www.ros.org/.  Additional information on Catkin can be found at: http://www.ros.org/wiki/catkin
 
 The new wstool (http://www.ros.org/wiki/wstool) is also preferred to rosinstall and should be installed using:
 	
