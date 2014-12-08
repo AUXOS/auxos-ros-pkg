@@ -3,4 +3,4 @@
 - git: {local-name: ackermann_msgs, uri: 'git@github.com:AUXOS/ackermann_msgs.git', version: master}
 - git: {local-name: auxos_client, uri: 'git@github.com:AUXOS/auxos_client.git', version: master}
 - git: {local-name: cmake_modules, uri: 'https://github.com/ros/cmake_modules.git', version: master}
-- git: {local-name: cmake_modules, uri: 'https://github.com/ros/bond_core.git', version: master}
+- git: {local-name: bond_core, uri: 'https://github.com/ros/bond_core.git', version: master}
