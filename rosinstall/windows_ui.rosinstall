@@ -1,9 +1,7 @@
-# setup auxos files needed for message generation
 - git: {local-name: auxos_messages, uri: 'https://github.com/AUXOS/auxos_messages.git', version: master}
-# setup common auxos files
 - git: {local-name: auxos_common, uri: 'https://github.com/AUXOS/auxos_common.git', version: master}
-# catkin version of ackermann steering messages
 - git: {local-name: ackermann_msgs, uri: 'https://github.com/AUXOS/ackermann_msgs.git', version: master}
-# auxos client - ROS code for UI
 - git: {local-name: auxos_client, uri: 'https://github.com/AUXOS/auxos_client.git', version: master}
 - git: {local-name: bond_core, uri: 'https://github.com/ros/bond_core.git'}
+- git: {local-name: cmake_modules, uri: 'https://github.com/ros/cmake_modules.git', version: master}
+- git: {local-name: bond_core, uri: 'https://github.com/ros/bond_core.git', version: master}
