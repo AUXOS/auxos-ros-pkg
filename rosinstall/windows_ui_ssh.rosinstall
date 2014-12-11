@@ -2,5 +2,5 @@
 - git: {local-name: auxos_common, uri: 'git@github.com:AUXOS/auxos_common.git', version: master}
 - git: {local-name: ackermann_msgs, uri: 'git@github.com:AUXOS/ackermann_msgs.git', version: master}
 - git: {local-name: auxos_client, uri: 'git@github.com:AUXOS/auxos_client.git', version: master}
-- git: {local-name: cmake_modules, uri: 'https://github.com/ros/cmake_modules.git', version: master}
+- git: {local-name: cmake_modules, uri: 'https://github.com/ros/cmake_modules.git', version: 0.3-devel}
 - git: {local-name: bond_core, uri: 'git@github.com:davidhodo/bond_core.git', version: dll_export}
