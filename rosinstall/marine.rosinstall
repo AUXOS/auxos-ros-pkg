@@ -8,3 +8,4 @@
 - git: {local-name: joystick_drivers, uri: 'git@github.com:ros-drivers/joystick_drivers.git', version: indigo-devel}
 - git: {local-name: topic_logger, uri: 'git@github.com:AUXOS/topic_logger.git', version: master}
 - git: {local-name: marine_controller, uri: 'git@gitlab.is4s-auburn.com:auxos/marine_controller.git', version: master}
+- git: {local-name: ackermann_msgs, uri: 'git@github.com:AUXOS/ackermann_msgs.git', version: master}
