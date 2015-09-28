@@ -9,3 +9,4 @@
 - git: {local-name: libsegwayrmp440, uri: 'git@github.com:AUXOS/libsegwayrmp440.git', version: master}
 - git: {local-name: robot_upstart, uri: 'git@github.com:clearpathrobotics/robot_upstart.git'}
 - git: {local-name: joystick_drivers, uri: 'git@github.com:ros-drivers/joystick_drivers.git', version: indigo-devel}
+- git: {local-name: topic_logger, uri: 'git@github.com:AUXOS/topic_logger.git', version: master}
